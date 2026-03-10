@@ -2,7 +2,7 @@
 
 This repository contains the source code for my academic homepage.
 
-🌐 Website: https://yourusername.github.io
+🌐 Website: https://buddhikapriyasad.github.io
 
 ## About
 
